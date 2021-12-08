@@ -12,3 +12,5 @@
 @endforeach
 
 <a href="{{route('products.create')}}">New</a> 
+
+conflict test 2
